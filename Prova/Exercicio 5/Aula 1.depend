@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1538683187 source:c:\users\gabri\documents\computacao grafica\aula 1\basico2d.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<GL\gl.h>
+	<GL/glu.h>
+	<GL\glut.h>
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1542931191 source:c:\users\gabri\documents\computacao grafica\prova\exercicio 1\exercicio a\basico2d.cpp
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<GL\gl.h>
+	<GL/glu.h>
+	<GL\glut.h>
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1543969792 source:c:\users\gabri\documents\computacao grafica\prova\exercicio 5\basico2d.cpp
+	<windows.h>
+	<GL/glut.h>
+
